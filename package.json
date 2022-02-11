@@ -1,0 +1,11 @@
+{
+  "name": "ipfs-getting-started",
+  "version": "1.0.0",
+  "description": "https://betterprogramming.pub/how-to-get-started-with-ipfs-and-node-fa04baec6b3a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

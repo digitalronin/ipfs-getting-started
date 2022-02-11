@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ipfs": "^0.62.1"
+    "ipfs": "^0.62.1",
+    "uint8arrays": "^3.0.0"
   }
 }
